@@ -1,2 +1,2 @@
 # dogsmbti
-Dogs mbti
+allthattest.github.io/dogsmbti
